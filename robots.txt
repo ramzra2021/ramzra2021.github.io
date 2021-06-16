@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*?
+Allow: /*.js
+Allow: /*.css
+Allow: /*.webp
+
+Sitemap: https://booi-casino.github.io/sitemap.xml
